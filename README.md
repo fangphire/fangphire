@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fang
-- 👀 I’m interested in games
-- 🌱 I’m currently learning python, css
+- 👀 I’m interested in games, animes, shows, history and a lotta sports too kinda 
+- 🌱 I’m currently learning python, css, c++, dsa
 - 💞️ I’m looking to collaborate on beginner projects
-- 📫 How to reach me discord: Fang#7777
+- 📫 Add me on discord, @nh2ch3
 
 <!---
 fangphire/fangphire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
