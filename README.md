@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, animes, shows, history and a lotta sports too kinda 
 - 🌱 I’m currently learning python, css, c++, dsa
 - 💞️ I’m looking to collaborate on beginner projects
-- 📫 Add me on discord, @nh2ch3
+- 📫 Add me on discord, @fxnj
 
 <!---
 fangphire/fangphire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
